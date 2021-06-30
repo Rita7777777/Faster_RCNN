@@ -1,1 +1,1 @@
-
+pytorch写的简单的faster rcnn模型，用的是voc数据集训练
